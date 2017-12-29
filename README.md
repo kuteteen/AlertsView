@@ -1,6 +1,6 @@
 # AlertsView
 this Project By BandarHelal🇸🇦
-- objective-c
+- (Written in Objective C)
 
 # Credits
 - SCLAlertView [project](https://github.com/dogo/SCLAlertView)
